@@ -1,10 +1,8 @@
-# NJ Matata - Portfolio
-Overview of profile...
-
-# Single-Value Software Quality Metric - Python
+## Overview
+## Single-Value Software Quality Metric - Python
 Project overview and link to source code ... 
-# Raw K-Means Clustering Algorithm - C++
+## Raw K-Means Clustering Algorithm - C++
 Project overview and link to source code ...
-# Customizable Neural Network - Java
+## Customizable Neural Network - Java
 Project overview and link to source code ...
-# Real-time Event consumer - Angular
+## Real-time Event consumer - Angular
