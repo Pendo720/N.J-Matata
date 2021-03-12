@@ -1,4 +1,5 @@
 ## Overview
+![Event Generator Imange](https://github.com/Pendo720/NJ-Matata-Portfolio/blob/gh-pages/gh-images/icomplex.png)
 
 Introduction and portfolio overview 
 
@@ -15,6 +16,6 @@ Project overview and link to source code ...
 Project overview and link to source code ...
 
 ### [Event Generator - Android/Java](https://github.com/Pendo720/nfc-eg)  
-![Event Generator Imange](https://github.com/Pendo720/blob/gh-pages/gh-images/icomplex.png) Project overview and link to source code ...
+Project overview and link to source code ...
 
 [Link](url) and ![Image](src)
