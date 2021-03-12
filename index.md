@@ -1,5 +1,5 @@
 ## Overview
-![Event Generator Imange](https://github.com/Pendo720/NJ-Matata-Portfolio/blob/gh-pages/gh-images/icomplex.png)
+![](/gh-pages/gh-images/icomplex.png)
 
 Introduction and portfolio overview 
 
