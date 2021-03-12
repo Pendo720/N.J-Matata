@@ -1,5 +1,5 @@
 ## Overview
-![](/gh-pages/gh-images/icomplex.png)
+![](/blob/gh-pages/gh-images/icomplex.png)
 
 Introduction and portfolio overview 
 
