@@ -4,6 +4,7 @@ Introduction and portfolio overview
 
 ### [Single-value software quality metric - Python](https://github.com/Pendo720/svsqm)  
 Project overview and link to source code ...
+
 ![](/gh-images/svsqm_graph.png)
 
 ### [k-means clustering - C++](https://github.com/Pendo720/kmeans-fp)  
