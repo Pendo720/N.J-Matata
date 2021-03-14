@@ -4,7 +4,7 @@ This page is a minimal portfolio showcasing a selected number projects carried o
 Following projects were selected to illustrate the author's capabilities in the use of the respective programming 
 languages and techniques.
 
-This page is a work in progress and is envisage to undergo changes from time to time. 
+__italic__ This page is a work in progress and is will undergo changes as a reflection of the authors activities. 
 ### [Project 1: Event Generator - Kotlin](https://github.com/Pendo720/nfc-eg)  
 #### Overview
 Created an event generator by exploiting one of the Android device intrisic sensors. The project is
