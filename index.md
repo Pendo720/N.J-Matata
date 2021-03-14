@@ -36,8 +36,8 @@ in each of the layer. This flexibility enables use of the network in diverse pro
 #### Overview
 
 Created:
-  - An event generator using the proximity sensor on an Android device
-  - The generated event is propagated to a backend [Project 4](https://github.com/Pendo720/Tri-Font) which routes the event to any subscribers. 
+  - an event generator using the proximity sensor on an Android device
+  - propagated any generated event to a backend described in [Project 4](https://github.com/Pendo720/Tri-Font) - routes the event to any subscribers. 
 
 ### [Project 4: RT-Event Router - Java/Angular](https://github.com/Pendo720/Tri-Font)  
 #### Overview
