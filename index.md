@@ -15,7 +15,7 @@ Project overview and link to source code ...
 
 ![](/gh-images/graph.png)
 
-### [Project 4: Real-time Events Monitor - Angular](https://github.com/Pendo720/Tri-Font)  
+### [Project 4: RT-Event Monitor - Angular](https://github.com/Pendo720/Tri-Font)  
 Project overview and link to source code ...
 
 ### [Project 5: Event Generator - Android/Kotlin](https://github.com/Pendo720/nfc-eg)  
