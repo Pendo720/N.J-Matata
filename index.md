@@ -26,8 +26,11 @@ components of AI, the ability to aggregate data on the basis of a given trait of
 proven to be an effective means for acquiring insights into the data. k-Means algorithm is one of the 
 unsupervised ML algorithms for grouping(clustering) data by means of some intrinsic traits in the data. 
 
-### [Project 3: Customisable Neural Network - Java](https://github.com/Pendo720/nn-fp)  
+### [Project 3: Neural Network Classifier - Java](https://github.com/Pendo720/nn-fp)  
 #### Overview
+This is a customisable neural network created to consolidate understanding of neural networks. The code implements
+and easily customisable network. The architectural customisation entails configuration of both layers and the neurons 
+in each of the layer. This flexibility enables use of the network in diverse problem scenarios.
 
 ### [Project 4: RT-Event Router - Java/Angular](https://github.com/Pendo720/Tri-Font)  
 #### Overview
