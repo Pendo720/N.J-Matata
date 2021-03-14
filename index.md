@@ -4,7 +4,7 @@ This page is a minimal portfolio showcasing a selected number projects carried o
 unemployed. The following projects were selected for their illustration of my capabilities in the
 use of the respective programming languages and techniques.
 
-### [Project 1: Single-value software quality metric - Python](https://github.com/Pendo720/svsqm)  
+### [Project 1: Single-Value-SQM - Python](https://github.com/Pendo720/svsqm)  
 #### Overview
 A common problem encountered when assessing the quality of software artifact is the absence of a standard
 upon which comparisions of a given artifact can be assessed. The Single-value software quality metric is
