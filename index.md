@@ -23,7 +23,7 @@ unsupervised ML algorithms for grouping(clustering) data by means of some intrin
 ### [Project 3: Customisable Neural Network - Java](https://github.com/Pendo720/nn-fp)  
 #### Overview
 
-### [Project 4: RT-Event Monitor - Angular](https://github.com/Pendo720/Tri-Font)  
+### [Project 4: RT-Event Router - Java/Angular](https://github.com/Pendo720/Tri-Font)  
 #### Overview
 
 ### [Project 5: Event Generator - Android/Kotlin](https://github.com/Pendo720/nfc-eg)  
