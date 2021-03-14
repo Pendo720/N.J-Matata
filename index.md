@@ -5,7 +5,7 @@ I was unemployed. The following projects are selected for illustration of the de
 respective programming languages and frameworks.
 
 ### [Project 1: Single-value software quality metric - Python](https://github.com/Pendo720/svsqm)  
-####Project overview
+#### Project overview
 
 ![](/gh-images/svsqm_graph.png)
 
@@ -13,12 +13,12 @@ respective programming languages and frameworks.
 ####Project overview
 
 ### [Project 3: Customisable Neural Network - Java](https://github.com/Pendo720/nn-fp)  
-####Project overview
+#### Project overview
 
 ![](/gh-images/graph.png)
 
 ### [Project 4: RT-Event Monitor - Angular](https://github.com/Pendo720/Tri-Font)  
-####Project overview
+#### Project overview
 
 ### [Project 5: Event Generator - Android/Kotlin](https://github.com/Pendo720/nfc-eg)  
-####Project overview
+#### Project overview
