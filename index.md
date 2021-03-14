@@ -9,7 +9,7 @@ This page is a work in progress and is will undergo changes as a reflection of t
 ### [Project 1: Event Generator - Kotlin](https://github.com/Pendo720/nfc-eg)  
 #### Overview
 Created an event generator by exploiting one of the Android device intrisic sensors. The project is
-part of [RT-Event Router - Java/Angular](https://github.com/Pendo720/Tri-Font). It provides a mechanism for verifying 
+part of [RT-Event Router](https://github.com/Pendo720/Tri-Font). It provides a mechanism for verifying 
 the RT-Event Router.
 
 Created:
