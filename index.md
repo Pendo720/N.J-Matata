@@ -29,12 +29,18 @@ unsupervised ML algorithms for grouping(clustering) data by means of some intrin
 ### [Project 3: Neural Network Classifier - Java](https://github.com/Pendo720/nn-fp)  
 #### Overview
 This is a customisable neural network created to consolidate understanding of neural networks. The code implements
-and easily customisable network. The architectural customisation entails configuration of both layers and the neurons 
+an easily customisable network. The architectural customisation entails configuration of both layers and the neurons 
 in each of the layer. This flexibility enables use of the network in diverse problem scenarios.
-
 
 ### [Project 5: Event Generator - Android/Kotlin](https://github.com/Pendo720/nfc-eg)  
 #### Overview
 
+Created
+  - An event generator using the proximity sensor on an Android device
+  - The generated event is propagated to a backend [Project 4](https://github.com/Pendo720/Tri-Font) which routes the event to any subscribers. 
+
 ### [Project 4: RT-Event Router - Java/Angular](https://github.com/Pendo720/Tri-Font)  
 #### Overview
+Created
+  - microservice for process events and broadcasts any new events to any subscribers
+  - created a front-end which subscribes to the microservice endpoint and updates in real-time  
