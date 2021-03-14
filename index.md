@@ -1,8 +1,8 @@
 ## Introduction
 
-This page is a minimal portfolio showcasing a selected number projects carried out during periods of my 
-unemployed. The following projects were selected for their illustration of my capabilities in the
-use of the respective programming languages and techniques.
+This page is a minimal portfolio showcasing a selected number projects carried out by the author in his free-time. 
+Following projects were selected to illustrate the author's capabilities in the use of the respective programming 
+languages and techniques. This page is a work in progress and is envisage to undergo changes from time to time. 
 
 ### [Project 1: Single-Value-SQM - Python](https://github.com/Pendo720/svsqm)  
 #### Overview
