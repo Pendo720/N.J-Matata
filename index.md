@@ -15,7 +15,8 @@ programme: software quality module.
 
 In addition to providing a single-value metric for software quality, the visual above can help identify 
 the aspect of the artifact qualities which need addressing to better its quality. The artifact quality 
-measure is the average of the individual values on the four dimension. 
+measure is the average of the individual values on the four dimension.
+
 Note: the quantities on both Test and Imp. are negated for visualisation purposes.
 
 ### [Project 2: k-Means Clustering - C++](https://github.com/Pendo720/kmeans-fp)  
