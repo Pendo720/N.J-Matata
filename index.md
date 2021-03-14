@@ -15,10 +15,10 @@ programme: software quality module.
 
 ### [Project 2: k-Means Clustering - C++](https://github.com/Pendo720/kmeans-fp)  
 #### Overview
-AI and ML learning is finding use in different aspect of our daily life. As one of the pivotal 
+AI and ML in particular is finding use in different aspect of our daily life. As one of the pivotal 
 components of AI, the ability to aggregate data on the basis of a given trait of the data(feature) has 
-proven to be an effective means for acquiring insights into the data. k-Means algorithm provides a
-practical method for grouping(clustering) data into groups based on a common trait. 
+proven to be an effective means for acquiring insights into the data. k-Means algorithm is one of the 
+unsupervised ML algorithms for grouping(clustering) data by means of some intrinsic traits in the data. 
 
 ### [Project 3: Customisable Neural Network - Java](https://github.com/Pendo720/nn-fp)  
 #### Overview
