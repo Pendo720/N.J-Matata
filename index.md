@@ -29,7 +29,7 @@ This is a customisable neural network created to consolidate understanding of ne
 an easily customisable network. The architectural customisation entails configuration of both layers and the neurons 
 in each of the layer. This flexibility enables use of the network in diverse problem scenarios.
 
-### [Project 4: RT-Event Router - Java/Angular](https://github.com/Pendo720/Tri-Font)  
+### [Project 4: RT-Event Router - C#/Java/Angular](https://github.com/Pendo720/Tri-Font)  
 #### Overview
 
 Created:
