@@ -47,6 +47,6 @@ programme: software quality module.
 
 In addition to providing a single-value metric for software quality, the visual above can help identify 
 the aspect of the artifact qualities which need addressing to better its quality. The artifact quality 
-measure is the average of the individual values on the four dimensions[Specification, Documentation, Implementation and Testing]
+measure is the average of the individual values on the four dimensions: Specification, Documentation, Implementation and Testing
 
 Note: the quantities on both Test and Implementation. dimensions are negated for visualisation purposes.
