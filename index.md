@@ -6,15 +6,13 @@ languages and techniques.
 
 This page is a work in progress and is will undergo changes as a reflection of the authors activities. 
 
-### [Project 1: Event Generator - Kotlin](https://github.com/Pendo720/nfc-eg)  
+
+### [Project 1: Event Tracker - Java/Kotlin/Typescript](https://github.com/Pendo720/Tri-Font)  
 #### Overview
-Created an event generator by exploiting one of the Android device intrisic sensors. The project is
-part of [RT-Event Router](https://github.com/Pendo720/Tri-Font). It provides a mechanism for verifying 
-the RT-Event Router.
 
 Created:
-  - an event generator using Android device sensor
-  - propagated generated event to a backend subsystem described in [Project 4](https://github.com/Pendo720/Tri-Font) - which routes received events to subscribers. 
+  - a microservice for processing events, broadcasting any received events to subscribers
+  - created a front-end which subscribes to the microservice endpoint and updates in real-time  
 
 ### [Project 2: k-Means Clustering - C++](https://github.com/Pendo720/kmeans-fp)  
 #### Overview
@@ -29,14 +27,7 @@ This is a customisable neural network created to consolidate understanding of ne
 an easily customisable network. The architectural customisation entails configuration of both layers and the neurons 
 in each of the layer. This flexibility enables use of the network in diverse problem scenarios.
 
-### [Project 4: RT-Event Router - C#/Java/Angular](https://github.com/Pendo720/Tri-Font)  
-#### Overview
-
-Created:
-  - a microservice for processing events, broadcasting any received events to subscribers
-  - created a front-end which subscribes to the microservice endpoint and updates in real-time  
-
-### [Project 5: Single-Value-SQM - Python](https://github.com/Pendo720/svsqm)  
+### [Project 4: Single-Value-SQM - Python](https://github.com/Pendo720/svsqm)  
 #### Overview
 A common problem encountered when assessing the quality of software artifact is the absence of a standard
 upon which comparisions of a given artifact can be assessed. The Single-value software quality metric is
