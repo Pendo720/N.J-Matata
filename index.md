@@ -14,20 +14,13 @@ Created:
   - a microservice for processing events, broadcasting any received events to subscribers
   - created a front-end which subscribes to the microservice endpoint and updates in real-time  
 
-### [Project 2: k-Means Clustering - C++](https://github.com/Pendo720/kmeans-fp)  
-#### Overview
-AI and ML in particular is finding use in different aspect of our daily life. As one of the pivotal 
-components of AI, the ability to aggregate data on the basis of a given trait of the data(feature) has 
-proven to be an effective means for acquiring insights into the data. k-Means algorithm is one of the 
-unsupervised ML algorithms for grouping(clustering) data by means of some intrinsic traits in the data. 
-
-### [Project 3: Neural Network Classifier - Java](https://github.com/Pendo720/nn-fp)  
+### [Project 2: Neural Network Classifier - Java](https://github.com/Pendo720/nn-fp)  
 #### Overview
 This is a customisable neural network created to consolidate understanding of neural networks. The code implements
 an easily customisable network. The architectural customisation entails configuration of both layers and the neurons 
 in each of the layer. This flexibility enables use of the network in diverse problem scenarios.
 
-### [Project 4: Single-Value-SQM - Python](https://github.com/Pendo720/svsqm)  
+### [Project 3: Single-Value-SQM - Python](https://github.com/Pendo720/svsqm)  
 #### Overview
 A common problem encountered when assessing the quality of software artifact is the absence of a standard
 upon which comparisions of a given artifact can be assessed. The Single-value software quality metric is
@@ -41,3 +34,10 @@ the aspect of the artifact qualities which need addressing to better its quality
 measure is the average of the individual values on the four dimensions: Specification, Documentation, Implementation and Testing
 
 Note: the quantities on both the Testing and Documentation dimensions are negated for visualisation purposes.
+
+### [Project 4: k-Means Clustering - C++](https://github.com/Pendo720/kmeans-fp)  
+#### Overview
+AI and ML in particular is finding use in different aspect of our daily life. As one of the pivotal 
+components of AI, the ability to aggregate data on the basis of a given trait of the data(feature) has 
+proven to be an effective means for acquiring insights into the data. k-Means algorithm is one of the 
+unsupervised ML algorithms for grouping(clustering) data by means of some intrinsic traits in the data. 
