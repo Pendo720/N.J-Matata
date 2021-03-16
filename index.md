@@ -7,7 +7,7 @@ languages and techniques.
 This page is a work in progress and is will undergo changes as a reflection of the authors activities. 
 
 
-### [Project 1: Event Tracker - Java/Kotlin/Typescript](https://github.com/Pendo720/Tri-Font)  
+### [Project 1: Track-Sys - Java/Kotlin/Typescript](https://github.com/Pendo720/Tri-Font)  
 #### Overview
 
 Created:
