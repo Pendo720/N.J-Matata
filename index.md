@@ -8,7 +8,7 @@ This page is a work in progress and will continuously undergo changes in reflect
 
 
 ### Project 1: Track-Sys (Java/Kotlin/Typescript)  
-#### Overview
+#### _Overview_
 > Track-Sys is a complete system for tracking events. These can be anything where human activity is involve and 
 > some traceability is required for managerial operations. 
 > The project consists of the following components: 
@@ -16,15 +16,18 @@ This page is a work in progress and will continuously undergo changes in reflect
 >  - [a web portal showing registered events in real-time](https://github.com/Pendo720/Track-Sys-Dashboard) 
 >  - [a mobile app for capturing some of the event streams](https://github.com/Pendo720/M-Front)
   
+The following screenshots show the front-ends during operation
 
+![](/gh-images/svsqm_graph.png)
+<p><centre>"UI-Label"</centre></p>
 ### [Project 2: Neural Network Classifier (Java)](https://github.com/Pendo720/nn-fp)  
-#### Overview
+#### _Overview_
 This is a customisable neural network created to consolidate understanding of neural networks. The code implements
 an easily customisable network. The architectural customisation entails configuration of both layers and the neurons 
 in each of the layer. This flexibility enables use of the network in diverse problem scenarios.
 
 ### [Project 3: Single-Value-SQM (Python)](https://github.com/Pendo720/svsqm)  
-#### Overview
+#### _Overview_
 > A common problem encountered when assessing the quality of software artifact is the absence of a standard
 > upon which comparisions of a given artifact can be assessed. The Single-value software quality metric is
 > practical framework for facilitating such comparisions. This project is an extension of my master's 
@@ -39,7 +42,7 @@ measure is the average of the individual values on the four dimensions: Specific
 Note: the quantities on both the Testing and Documentation dimensions are negated for visualisation purposes.
 
 ### [Project 4: k-Means Clustering (C++)](https://github.com/Pendo720/kmeans-fp)  
-#### Overview
+#### _Overview_
 > AI and ML in particular is finding use in different aspect of our daily life. As one of the pivotal 
 > components of AI, the ability to aggregate data on the basis of a given trait of the data(feature) has 
 > proven to be an effective means for acquiring insights into the data. k-Means algorithm is one of the 
