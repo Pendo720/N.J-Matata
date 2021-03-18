@@ -16,6 +16,8 @@ This page is a work in progress and will be continuously updated to reflect auth
 >  - [a mobile app for capturing event data](https://github.com/Pendo720/M-Front)
   
 The following screenshots show the front-ends during operation
+
+![](/gh-images/mfront.png)
 > Todo:
 >   - add screenshots of web portal
 >   - add screenshot of mobile app generating an event
