@@ -12,13 +12,9 @@ This page is a work in progress and will continuously undergo changes in reflect
 > Track-Sys is a complete system for tracking events. These can be anything where human activity is involve and 
 > some traceability is required for managerial operations. The project consists of a 
 >  - a microservice for managing the associate data streams in the activity
->  - a web portal showing the registered events in the system
+>  - a web portal showing registered events in real-time 
 >  - a mobile app for capturing some of the event streams
 >   
-Created:
-  - a microservice for processing events, broadcasting any received events to subscribers
-  - created a front-end which subscribes to the microservice endpoint and updates in real-time  
-
 ### [Project 2: Neural Network Classifier (Java)](https://github.com/Pendo720/nn-fp)  
 #### Overview
 This is a customisable neural network created to consolidate understanding of neural networks. The code implements
@@ -27,10 +23,10 @@ in each of the layer. This flexibility enables use of the network in diverse pro
 
 ### [Project 3: Single-Value-SQM (Python)](https://github.com/Pendo720/svsqm)  
 #### Overview
-A common problem encountered when assessing the quality of software artifact is the absence of a standard
-upon which comparisions of a given artifact can be assessed. The Single-value software quality metric is
-practical framework for facilitating such comparisions. This project is an extension of my master's 
-programme: software quality module. 
+>> A common problem encountered when assessing the quality of software artifact is the absence of a standard
+>> upon which comparisions of a given artifact can be assessed. The Single-value software quality metric is
+>> practical framework for facilitating such comparisions. This project is an extension of my master's 
+>> programme: software quality module. 
 
 ![](/gh-images/svsqm_graph.png)
 
