@@ -20,14 +20,11 @@ The following screenshots show the front-ends during operation
 Web portal screenshot
 ![](/gh-images/wfront.png)
 
-Mobile App screenshot
+Mobile App screenshot 
 ![](/gh-images/mfront.png)
 
 > Todo:
->   - add screenshots of web portal
->   - add screenshot of mobile app generating an event
->   - describe the operation using the screenshots
->   
+>   - describe the operation using the screenshots   
  
 ### [Project 2: Neural Network Classifier (Java)](https://github.com/Pendo720/nn-fp)  
 #### _Overview_
