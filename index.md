@@ -7,14 +7,14 @@ languages and techniques.
 This page is a work in progress and will continuously undergo changes in reflection of the authors activities. 
 
 
-### [Project 1: Track-Sys (Java/Kotlin/Typescript)](https://github.com/Pendo720/Tri-Font)  
+### Project 1: Track-Sys (Java/Kotlin/Typescript)  
 #### Overview
 > Track-Sys is a complete system for tracking events. These can be anything where human activity is involve and 
 > some traceability is required for managerial operations. 
 > The project consists of the following components: 
->  - [https://github.com/Pendo720/TrackerMS](a microservice for managing the associate data streams in the activity)
->  - [https://github.com/Pendo720/Track-Sys-Dashboard]a web portal showing registered events in real-time 
->  - [https://github.com/Pendo720/M-Front](a mobile app for capturing some of the event streams)
+>  - [a microservice for managing the associate data streams in the activity](https://github.com/Pendo720/TrackerMS)
+>  - [a web portal showing registered events in real-time](https://github.com/Pendo720/Track-Sys-Dashboard) 
+>  - [a mobile app for capturing some of the event streams](https://github.com/Pendo720/M-Front)
   
 
 ### [Project 2: Neural Network Classifier (Java)](https://github.com/Pendo720/nn-fp)  
