@@ -19,7 +19,8 @@ This page is a work in progress and will continuously undergo changes in reflect
 The following screenshots show the front-ends during operation
 
 ![](/gh-images/svsqm_graph.png)
-<p><centre>"UI-Label"</centre></p>
+<p>UI-Label</p>
+
 ### [Project 2: Neural Network Classifier (Java)](https://github.com/Pendo720/nn-fp)  
 #### _Overview_
 This is a customisable neural network created to consolidate understanding of neural networks. The code implements
