@@ -4,8 +4,7 @@ This page is a minimal portfolio showcasing a selected number projects carried o
 Following projects were selected to illustrate the author's capabilities in the use of the respective programming 
 languages and techniques.
 
-This page is a work in progress and will continuously undergo changes in reflection of the authors activities. 
-
+This page is a work in progress and will be continuously updated to reflect authors activities. 
 
 ### Project 1: Track-Sys (Java/Kotlin/Typescript)  
 #### _Overview_
@@ -14,13 +13,15 @@ This page is a work in progress and will continuously undergo changes in reflect
 > The project consists of the following components: 
 >  - [a microservice for managing the associate data streams in the activity](https://github.com/Pendo720/TrackerMS)
 >  - [a web portal showing registered events in real-time](https://github.com/Pendo720/Track-Sys-Dashboard) 
->  - [a mobile app for capturing some of the event streams](https://github.com/Pendo720/M-Front)
+>  - [a mobile app for capturing event data](https://github.com/Pendo720/M-Front)
   
 The following screenshots show the front-ends during operation
-
-![](/gh-images/svsqm_graph.png)
-<p>UI-Label</p>
-
+> Todo:
+>   - add screenshots of web portal
+>   - add screenshot of mobile app generating an event
+>   - describe the operation using the screenshots
+>   
+ 
 ### [Project 2: Neural Network Classifier (Java)](https://github.com/Pendo720/nn-fp)  
 #### _Overview_
 This is a customisable neural network created to consolidate understanding of neural networks. The code implements
