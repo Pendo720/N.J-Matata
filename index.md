@@ -21,7 +21,6 @@ Web portal screenshot
 ![](/gh-images/wfront.png)
 
 Mobile App screenshot
-
 ![](/gh-images/mfront.png)
 
 > Todo:
