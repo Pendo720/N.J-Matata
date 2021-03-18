@@ -14,7 +14,8 @@ This page is a work in progress and will continuously undergo changes in reflect
 >  - a microservice for managing the associate data streams in the activity
 >  - a web portal showing registered events in real-time 
 >  - a mobile app for capturing some of the event streams
->   
+  
+
 ### [Project 2: Neural Network Classifier (Java)](https://github.com/Pendo720/nn-fp)  
 #### Overview
 This is a customisable neural network created to consolidate understanding of neural networks. The code implements
@@ -30,11 +31,11 @@ in each of the layer. This flexibility enables use of the network in diverse pro
 
 ![](/gh-images/svsqm_graph.png)
 
-> In addition to providing a single-value metric for software quality, the visual above can help identify 
-> the aspect of the artifact qualities which need addressing to better its quality. The artifact quality 
-> measure is the average of the individual values on the four dimensions: Specification, Documentation, Implementation and Testing
+In addition to providing a single-value metric for software quality, the visual above can help identify 
+the aspect of the artifact qualities which need addressing to better its quality. The artifact quality 
+measure is the average of the individual values on the four dimensions: Specification, Documentation, Implementation and Testing
 
-> Note: the quantities on both the Testing and Documentation dimensions are negated for visualisation purposes.
+Note: the quantities on both the Testing and Documentation dimensions are negated for visualisation purposes.
 
 ### [Project 4: k-Means Clustering (C++)](https://github.com/Pendo720/kmeans-fp)  
 #### Overview
