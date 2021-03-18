@@ -8,12 +8,12 @@ This page is a work in progress and will be continuously updated to reflect auth
 
 ### Project 1: Track-Sys (Java/Kotlin/Typescript)  
 #### _Overview_
-> Track-Sys is a complete system for tracking events. These can be anything where human activity is involve and 
-> some traceability is required for managerial operations. 
-> The project consists of the following components: 
->  - [a microservice for managing the associate data streams in the activity](https://github.com/Pendo720/TrackerMS)
->  - [a web portal showing registered events in real-time](https://github.com/Pendo720/Track-Sys-Dashboard) 
->  - [a mobile app for capturing event data](https://github.com/Pendo720/M-Front)
+Track-Sys is a complete system for tracking events. These can be anything where human activity is involve and 
+some traceability is required for managerial operations. 
+The project consists of the following components: 
+ - [a microservice for managing the associate data streams in the activity](https://github.com/Pendo720/TrackerMS)
+ - [a web portal showing registered events in real-time](https://github.com/Pendo720/Track-Sys-Dashboard) 
+ - [a mobile app for capturing event data](https://github.com/Pendo720/M-Front)
   
 The following screenshots show the front-ends during operation
 
@@ -36,10 +36,10 @@ in each of the layer. This flexibility enables use of the network in diverse pro
 
 ### [Project 3: Single-Value-SQM (Python)](https://github.com/Pendo720/svsqm)  
 #### _Overview_
-> A common problem encountered when assessing the quality of software artifact is the absence of a standard
-> upon which comparisions of a given artifact can be assessed. The Single-value software quality metric is
-> practical framework for facilitating such comparisions. This project is an extension of my master's 
-> programme: software quality module. 
+A common problem encountered when assessing the quality of software artifact is the absence of a standard
+upon which comparisions of a given artifact can be assessed. The Single-value software quality metric is
+practical framework for facilitating such comparisions. This project is an extension of my master's 
+programme: software quality module. 
 
 ![](/gh-images/svsqm_graph.png)
 
@@ -51,7 +51,7 @@ Note: the quantities on both the Testing and Documentation dimensions are negate
 
 ### [Project 4: k-Means Clustering (C++)](https://github.com/Pendo720/kmeans-fp)  
 #### _Overview_
-> AI and ML in particular is finding use in different aspect of our daily life. As one of the pivotal 
-> components of AI, the ability to aggregate data on the basis of a given trait of the data(feature) has 
-> proven to be an effective means for acquiring insights into the data. k-Means algorithm is one of the 
-> unsupervised ML algorithms for grouping(clustering) data by means of some intrinsic traits in the data. 
+AI and ML in particular is finding use in different aspect of our daily life. As one of the pivotal 
+components of AI, the ability to aggregate data on the basis of a given trait of the data(feature) has 
+proven to be an effective means for acquiring insights into the data. k-Means algorithm is one of the 
+unsupervised ML algorithms for grouping(clustering) data by means of some intrinsic traits in the data. 
