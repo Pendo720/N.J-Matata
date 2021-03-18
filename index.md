@@ -18,11 +18,9 @@ This page is a work in progress and will be continuously updated to reflect auth
 The following screenshots show the front-ends during operation
 
 ![](/gh-images/wfront.png)
-
 Web portal screenshot
 
 ![](/gh-images/mfront.png)
-
 Mobile App screenshot
 
 > Todo:
