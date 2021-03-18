@@ -18,6 +18,7 @@ This page is a work in progress and will be continuously updated to reflect auth
 The following screenshots show the front-ends during operation
 
 **Web portal screenshot**
+
 ![](/gh-images/wfront.png)
 
 **Mobile App screenshot**
