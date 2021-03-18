@@ -25,7 +25,7 @@ The following screenshots show the front-ends during operation
 
 ![](/gh-images/mfront.png)
 
-> Todo:
+> **Todo:**
 >   - describe the operation using the screenshots
 >   - fix paginator on the web fontend  
  
@@ -34,7 +34,7 @@ The following screenshots show the front-ends during operation
 This is a customisable neural network created to consolidate understanding of neural networks. The code implements
 an easily customisable network. The architectural customisation entails configuration of both layers and the neurons 
 in each of the layer. This flexibility enables use of the network in diverse problem scenarios.
-> Todo:
+> **Todo:**
 >  - breakdown the project
 >  - plan a solution 
 >  - implement it
@@ -53,7 +53,7 @@ the aspect of the artifact qualities which need addressing to better its quality
 measure is the average of the individual values on the four dimensions: Specification, Documentation, Implementation and Testing
 
 Note: the quantities on both the Testing and Documentation dimensions are negated for visualisation purposes.
-> Todo:
+> **Todo:**
 > - explain the benefit and possible application of such framework 
 > - include any references 
 
@@ -63,6 +63,6 @@ AI and ML in particular is finding use in different aspect of our daily life. As
 components of AI, the ability to aggregate data on the basis of a given trait of the data(feature) has 
 proven to be an effective means for acquiring insights into the data. k-Means algorithm is one of the 
 unsupervised ML algorithms for grouping(clustering) data by means of some intrinsic traits in the data. 
-> Todo:
+> **Todo:**
 > - describe application(line-based robot) automation
 > - explain how this can be applied in real life (example) 
