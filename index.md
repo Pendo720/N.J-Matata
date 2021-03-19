@@ -65,4 +65,5 @@ proven to be an effective means for acquiring insights into the data. k-Means al
 unsupervised ML algorithms for grouping(clustering) data by means of some intrinsic traits in the data. 
 > **Todo:**
 > - describe application(line-based robot) automation
-> - explain how this can be applied in real life (example) 
+> - implement it
+> - document it all 
