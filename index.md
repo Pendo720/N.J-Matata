@@ -67,7 +67,7 @@ upon which comparisions of a given artifact can be assessed. The Single-value so
 practical framework for facilitating such comparisions. This project is an extension of my master's 
 programme: software quality module. 
 
-![](/gh-images/gh-images/svsqm_graph.png)
+![](/gh-images/svsqm_graph.png)
 
 In addition to providing a single-value metric for software quality, the visual above can help identify 
 the aspect of the artifact qualities which need addressing to better its quality. The artifact quality 
@@ -76,7 +76,7 @@ measure is the average of the individual values on the four dimensions: Specific
 Note: the quantities on both the Testing and Documentation dimensions are negated for visualisation purposes.
 
 **Description**
-> - explain the benefit and possible application of such framework 
+> explain the benefit and possible application of such framework 
 
 
 ### [Project 4: k-Means Clustering (C++)](https://github.com/Pendo720/kmeans-fp)  
