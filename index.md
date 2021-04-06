@@ -29,15 +29,25 @@ The following screenshots show the front-ends during operation
 >   - describe the operation using the screenshots
 >   - fix paginator on the web fontend  
  
-### [Project 2: Neural Network Classifier (Java)](https://github.com/Pendo720/nn-fp)  
+### [Project 2: N2-Classifier (Java)](https://github.com/Pendo720/nn-fp)  
 #### _Overview_
-This is a customisable neural network created to consolidate understanding of neural networks. The code implements
-an easily customisable network. The architectural customisation entails configuration of both layers and the neurons 
-in each of the layer. This flexibility enables use of the network in diverse problem scenarios.
-> **Todo:**
->  - breakdown the project
->  - plan a solution 
->  - implement it
+This is a customisable neural network created to consolidate understanding and applications of neural networks as problem solving technique. The code implements
+an easily customisable model. 
+The N2-Classifier is a minimalist application of Neural Network to classify a range of nimbers based on each number bit representation. It uses backpropagation to 
+determine the optimal weight-set for the model. The implementation splits the input data range into three: training, cross-validation and testing datasets.
+The model training and cross-validation dataset is use for determining the optimal number of necessary iterations during training. Thus, the model training terminates 
+as soon as all cross-validation and tests have passed.
+
+Using the trained model, a virtual robot arm is deployed to illustrate how such a model can be use to provide a solution to a given problem. By picking a number of 
+network inputs which match to specific arm configurations; the network can be use to drive a real robot to perform some useful task.
+
+This flexibility of the N2-Classifier and neural network demostrates the versatility of using such a technique in problem solving. The following screenshots show the 
+N2-Classifier in operation.
+
+![](/gh-images/screenshot_0.png)
+![](/gh-images/screenshot_1.png)
+![](/gh-images/screenshot_16.png)
+![](/gh-images/screenshot_5.png)
 
 ### [Project 3: Single-Value-SQM (Python)](https://github.com/Pendo720/svsqm)  
 #### _Overview_
