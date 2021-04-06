@@ -19,11 +19,11 @@ The following screenshots show the front-ends during operation
 
 **Web portal screenshot**
 
-<img align="center" src="/gh-images/wfront.png"/>
+![](/gh-images/wfront.png)
 
 **Mobile App screenshot**
 
-<center><img src="/gh-images/mfront.png"/></center>
+![](/gh-images/mfront.png)
 
 > **Todo:**
 >   - describe the operation using the screenshots
