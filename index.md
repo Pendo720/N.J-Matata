@@ -45,7 +45,7 @@ This flexibility of the N2-Classifier and neural network demostrates the versati
 N2-Classifier in operation. 
 
 
-![](/gh-images/svsqm_graph.png)
+![](/gh-images/screenshot_0.png)
 
 ### [Project 3: Single-Value-SQM (Python)](https://github.com/Pendo720/svsqm)  
 #### _Overview_
