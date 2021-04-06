@@ -62,17 +62,17 @@ N2-Classifier in operation.
 ### [Project 3: Single-Value-SQM (Python)](https://github.com/Pendo720/svsqm)  
 #### _Overview_
 A common problem encountered when assessing the quality of software artifact is the absence of a standard
-upon which comparisions of a given artifact can be assessed. The Single-value software quality metric is
+upon which comparisions of a given artifact quality can be assessed. The single-value software quality metric is
 practical framework for facilitating such comparisions. This project is an extension of my master's 
 programme: software quality module. 
 
 ![](/gh-images/svsqm_graph.png)
 
 In addition to providing a single-value metric for software quality, the visual above can help identify 
-the aspect of the artifact qualities which need addressing to better its quality. The artifact quality 
-measure is the average of the individual values on the four dimensions: Specification, Documentation, Implementation and Testing
+the aspect of the artifact quality criteria which must be addressed in order to better its quality. The framework defines artifact quality 
+measure as the average of the individual values on the four dimensions: Specification, Documentation, Implementation and Testing
 
-Note: the quantities on both the Testing and Documentation dimensions are negated for visualisation purposes.
+Note: the quantities on both the Testing and Documentation dimensions are negated for visualisation purposes only.
 
 **Description**
 > SVQM framework is a useful QA tool as it provides a birds-eye view of software quality. It can be use to encourage new engineers to 
