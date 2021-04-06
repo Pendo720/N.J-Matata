@@ -18,13 +18,14 @@ The project consists of the following components:
 The following screenshots show the front-ends during operation
 
 **Web portal screenshot**
-<p align="center">
 ![](/gh-images/wfront.png)
-</p>
+
+<img align="center" width="100" height="100" src="/gh-images/wfront.png">
+
 **Mobile App screenshot**
-<div align="center">
+
 ![](/gh-images/mfront.png)
-</div>
+
 > **Todo:**
 >   - describe the operation using the screenshots
 >   - fix paginator on the web fontend  
@@ -43,9 +44,9 @@ network inputs which match to specific arm configurations; the network can be us
 
 This flexibility of the N2-Classifier and neural network demostrates the versatility of using such a technique in problem solving. The following screenshots show the 
 N2-Classifier in operation. 
-<div align="center">
+
 ![](/gh-images/Screenshot_0.png) ![](/gh-images/Screenshot_1.png) ![](/gh-images/Screenshot_16.png) ![](/gh-images/Screenshot_05.png)
-</div>
+
 ### [Project 3: Single-Value-SQM (Python)](https://github.com/Pendo720/svsqm)  
 #### _Overview_
 A common problem encountered when assessing the quality of software artifact is the absence of a standard
