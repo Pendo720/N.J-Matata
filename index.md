@@ -32,6 +32,7 @@ The following screenshots show the front-ends during possible operational scenar
 >   is clicked; the event data is posted to the backend. The backend registers the event and notifies any subscribed clients of the new event. 
 >   The notifications from the backend is processed and the dashboard is updated to reflect the system changes.
  
+ 
 ### [Project 2: N2-Classifier (Java)](https://github.com/Pendo720/nn-fp)  
 #### _Overview_
 This is a customisable neural network created to consolidate understanding and applications of neural networks as problem solving technique. The code implements
@@ -55,6 +56,11 @@ N2-Classifier in operation.
 |:----:|:----:|
 | ![](/gh-images/Screenshot_16.png) | ![](/gh-images/Screenshot_05.png) |
 
+**Description**
+>
+>
+
+
 ### [Project 3: Single-Value-SQM (Python)](https://github.com/Pendo720/svsqm)  
 #### _Overview_
 A common problem encountered when assessing the quality of software artifact is the absence of a standard
@@ -69,8 +75,10 @@ the aspect of the artifact qualities which need addressing to better its quality
 measure is the average of the individual values on the four dimensions: Specification, Documentation, Implementation and Testing
 
 Note: the quantities on both the Testing and Documentation dimensions are negated for visualisation purposes.
-> **Description**
+**Description**
 > - explain the benefit and possible application of such framework 
+
+
 
 ### [Project 4: k-Means Clustering (C++)](https://github.com/Pendo720/kmeans-fp)  
 #### _Overview_
