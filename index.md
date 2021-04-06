@@ -35,7 +35,7 @@ The following screenshots show the front-ends during possible operational scenar
 #### _Overview_
 This is a customisable neural network created to consolidate understanding and applications of neural networks as problem solving technique. The code implements
 an easily customisable model. 
-The N2-Classifier is a minimalist application of Neural Network to classify a range of nimbers based on each number bit representation. It uses backpropagation to 
+The N2-Classifier is a minimalist application of Neural Network to classify a range of numbers based on their bit representation. It uses backpropagation to 
 determine the optimal weight-set for the model. The implementation splits the input data range into three: training, cross-validation and testing datasets.
 The model training and cross-validation dataset is use for determining the optimal number of necessary iterations during training. Thus, the model training terminates 
 as soon as all cross-validation and tests have passed.
