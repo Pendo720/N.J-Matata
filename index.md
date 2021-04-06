@@ -55,8 +55,9 @@ N2-Classifier in operation.
 | ![](/gh-images/Screenshot_16.png) | ![](/gh-images/Screenshot_05.png) |
 
 **Description**
->
->
+> The first two screenshot show the N2-Classifier being exercised at the app startup. The app instantiates a neural network model with a given configuration and starts training it using sample data generated from the configuration input. The training is checked through the use of the cross-validation dataset at a fixed number of iterations and is terminated when the model has converged as determined by the success of all cross-validation tests. After successful excution of the cross-validation tests, the model is then
+subjected to the standard tests before its deployment.     
+> The last screenshots show a possible application of the classifier to perform state transition between defined robot arm configurations.  
 
 ### [Project 3: Single-Value-SQM (Python)](https://github.com/Pendo720/svsqm)  
 #### _Overview_
