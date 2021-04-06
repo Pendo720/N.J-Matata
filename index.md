@@ -23,9 +23,7 @@ The following screenshots show the front-ends during possible operational scenar
 
 **Mobile App screenshot**
 
-|       |
-|-------|
-|![](/gh-images/mfront.png)|
+![](/gh-images/mfront.png)
 
 **Description**
 >   The event of interest is generated using the proximity sensor of the mobile app. On submission - which happens when the button labelled 'POST' 
