@@ -46,12 +46,6 @@ N2-Classifier in operation.
 
 ![](/gh-images/screenshot_0.png)
 
-![](/gh-images/screenshot_1.png)
-
-![](/gh-images/screenshot_16.png)
-
-![](/gh-images/screenshot_05.png)
-
 ### [Project 3: Single-Value-SQM (Python)](https://github.com/Pendo720/svsqm)  
 #### _Overview_
 A common problem encountered when assessing the quality of software artifact is the absence of a standard
