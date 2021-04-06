@@ -4,18 +4,16 @@ This page is a minimal portfolio showcasing a selected number projects carried o
 Following projects were selected to illustrate the author's capabilities in the use of the respective programming 
 languages and problem-solving techniques.
 
-This page is a work in progress and will be continuously updated to reflect authors activities. 
+This page is a work in progress and will be continuously updated to reflect the author's activities. 
 
 ### Project 1: Track-Sys (Java/Kotlin/Typescript)  
 #### _Overview_
-Track-Sys is a complete system for tracking events. These can be anything where human activity is involve and 
-some traceability is required for management purposes. 
-The project consists of the following components: 
+Track-Sys is a complete system for tracking events. The types of possible events considered can be anything where human activity requires some traceability for management purposes. The complete project implementation consists of the following components: 
  - [a microservice for managing the associate data streams in the activity](https://github.com/Pendo720/TrackerMS)
  - [a web portal showing registered events in real-time](https://github.com/Pendo720/Track-Sys-Dashboard) 
  - [a mobile app for capturing event data](https://github.com/Pendo720/M-Front)
   
-The following screenshots show the front-ends during possible operational scenarios.
+The screenshots below show the front-ends during possible operational scenarios. 
 
 **Web portal screenshot**
 
@@ -26,9 +24,11 @@ The following screenshots show the front-ends during possible operational scenar
 ![](/gh-images/mfront.png)
 
 **Description**
->   The event of interest is generated using the proximity sensor of the mobile app. On submission - which happens when the button labelled 'POST' 
->   is clicked; the event data is posted to the backend. The backend registers the event and notifies any subscribed clients of the new event. 
+>   The event of interest is generated using the proximity sensor on the mobile device running a simple app. On submission - which happens when the button labelled 'POST' 
+>   is clicked; the posts the generated event data to the backend. The backend, which consists of a microservice registers the event and notifies any subscribed clients of the new event. 
 >   The notifications from the backend is processed and the dashboard is updated to reflect the system changes.
+>   
+The system is capable of capturing event data in real-time and relay it to any observers be it other systems or a human decision maker. 
  
  
 ### [Project 2: N2-Classifier (Java)](https://github.com/Pendo720/nn-fp)  
