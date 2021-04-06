@@ -76,8 +76,6 @@ Note: the quantities on both the Testing and Documentation dimensions are negate
 **Description**
 > SVQM framework is a useful QA tool as it provides a birds-eye view of software quality. It can be use to encourage new engineers to 
 > an organisation quality system. The specifics of how to interpret and determine the values for the four dimensions is dependent on the overall organisation's quality criteria.   
-
-
 ### [Project 4: k-Means Clustering (C++)](https://github.com/Pendo720/kmeans-fp)  
 #### _Overview_
 AI and ML in particular is finding use in different aspect of our daily life. As one of the pivotal 
@@ -86,6 +84,5 @@ proven to be an effective means for acquiring insights into the data. k-Means al
 unsupervised ML algorithms for grouping(clustering) data by means of some intrinsic traits in the data. 
 
 **Description**
-> - describe application(line-based robot) automation
 > - implement it
 > - document it all 
