@@ -74,9 +74,8 @@ measure is the average of the individual values on the four dimensions: Specific
 Note: the quantities on both the Testing and Documentation dimensions are negated for visualisation purposes.
 
 **Description**
-> SVQM framework is a useful QA tool as it provides a birds-eye view of software artifict quality. It can be use to encourage new engineers to 
-> an organisation quality system.
-> The specifics of how to interpret and determine the values for the four dimension is dependent on the overall organisation and artifact quality criteria.   
+> SVQM framework is a useful QA tool as it provides a birds-eye view of software quality. It can be use to encourage new engineers to 
+> an organisation quality system. The specifics of how to interpret and determine the values for the four dimensions is dependent on the overall organisation's quality criteria.   
 
 
 ### [Project 4: k-Means Clustering (C++)](https://github.com/Pendo720/kmeans-fp)  
