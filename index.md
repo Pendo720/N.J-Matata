@@ -44,7 +44,8 @@ network inputs which match to specific arm configurations; the network can be us
 This flexibility of the N2-Classifier and neural network demostrates the versatility of using such a technique in problem solving. The following screenshots show the 
 N2-Classifier in operation. 
 
-![](/gh-images/screenshot_0.png)
+
+![](/gh-images/svsqm_graph.png)
 
 ### [Project 3: Single-Value-SQM (Python)](https://github.com/Pendo720/svsqm)  
 #### _Overview_
