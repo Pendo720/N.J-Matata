@@ -20,7 +20,7 @@ The following screenshots show the front-ends during operation
 **Web portal screenshot**
 ![](/gh-images/wfront.png)
 
-<img align="center" width="100" height="100" src="/gh-images/wfront.png">
+<img align="center" src="/gh-images/wfront.png">
 
 **Mobile App screenshot**
 
