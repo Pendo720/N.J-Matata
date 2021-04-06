@@ -27,8 +27,8 @@ The following screenshots show the front-ends during possible operational scenar
 |-------|
 |![](/gh-images/mfront.png)|
 
-> **Description**
->   The event of interest is generated using the proximity sensor of the mobile app. On submission - which happens when the button labelled 'Post' 
+**Description**
+>   The event of interest is generated using the proximity sensor of the mobile app. On submission - which happens when the button labelled 'POST' 
 >   is clicked; the event data is posted to the backend. The backend registers the event and notifies any subscribed clients of the new event. 
 >   The notifications from the backend is processed and the dashboard is updated to reflect the system changes.
  
