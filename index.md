@@ -18,13 +18,12 @@ The project consists of the following components:
 The following screenshots show the front-ends during operation
 
 **Web portal screenshot**
-![](/gh-images/wfront.png)
 
-<img align="center" src="/gh-images/wfront.png">
+<img align="center" src="/gh-images/wfront.png"/>
 
 **Mobile App screenshot**
 
-![](/gh-images/mfront.png)
+<img align="center" src="/gh-images/mfront.png"/>
 
 > **Todo:**
 >   - describe the operation using the screenshots
@@ -53,9 +52,9 @@ A common problem encountered when assessing the quality of software artifact is 
 upon which comparisions of a given artifact can be assessed. The Single-value software quality metric is
 practical framework for facilitating such comparisions. This project is an extension of my master's 
 programme: software quality module. 
-<div align="center">
-![](/gh-images/svsqm_graph.png)
-</div>
+
+<img align="center" src="/gh-images/svsqm_graph.png"/>
+
 In addition to providing a single-value metric for software quality, the visual above can help identify 
 the aspect of the artifact qualities which need addressing to better its quality. The artifact quality 
 measure is the average of the individual values on the four dimensions: Specification, Documentation, Implementation and Testing
