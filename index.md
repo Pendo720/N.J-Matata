@@ -2,20 +2,20 @@
 
 This page is a minimal portfolio showcasing a selected number projects carried out by the author in his free-time. 
 Following projects were selected to illustrate the author's capabilities in the use of the respective programming 
-languages and techniques.
+languages and problem-solving techniques.
 
 This page is a work in progress and will be continuously updated to reflect authors activities. 
 
 ### Project 1: Track-Sys (Java/Kotlin/Typescript)  
 #### _Overview_
 Track-Sys is a complete system for tracking events. These can be anything where human activity is involve and 
-some traceability is required for managerial operations. 
+some traceability is required for management purposes. 
 The project consists of the following components: 
  - [a microservice for managing the associate data streams in the activity](https://github.com/Pendo720/TrackerMS)
  - [a web portal showing registered events in real-time](https://github.com/Pendo720/Track-Sys-Dashboard) 
  - [a mobile app for capturing event data](https://github.com/Pendo720/M-Front)
   
-The following screenshots show the front-ends during operation
+The following screenshots show the front-ends during possible operational scenarios.
 
 **Web portal screenshot**
 
@@ -27,9 +27,10 @@ The following screenshots show the front-ends during operation
 |-------|
 |![](/gh-images/mfront.png)|
 
-> **Todo:**
->   - describe the operation using the screenshots
->   - fix paginator on the web fontend  
+> **Description**
+>   The event of interest is generated using the proximity sensor of the mobile app. On submission - which happens when the button labelled 'Post' 
+>   is clicked; the event data is posted to the backend. The backend registers the event and notifies any subscribed clients of the new event. 
+>   The notifications from the backend is processed and the dashboard is updated to reflect the system changes.
  
 ### [Project 2: N2-Classifier (Java)](https://github.com/Pendo720/nn-fp)  
 #### _Overview_
@@ -61,16 +62,15 @@ upon which comparisions of a given artifact can be assessed. The Single-value so
 practical framework for facilitating such comparisions. This project is an extension of my master's 
 programme: software quality module. 
 
-<img align="center" src="/gh-images/svsqm_graph.png"/>
+![](/gh-images//gh-images/svsqm_graph.png)
 
 In addition to providing a single-value metric for software quality, the visual above can help identify 
 the aspect of the artifact qualities which need addressing to better its quality. The artifact quality 
 measure is the average of the individual values on the four dimensions: Specification, Documentation, Implementation and Testing
 
 Note: the quantities on both the Testing and Documentation dimensions are negated for visualisation purposes.
-> **Todo:**
+> **Description**
 > - explain the benefit and possible application of such framework 
-> - include any references 
 
 ### [Project 4: k-Means Clustering (C++)](https://github.com/Pendo720/kmeans-fp)  
 #### _Overview_
