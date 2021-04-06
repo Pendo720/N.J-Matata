@@ -18,13 +18,13 @@ The project consists of the following components:
 The following screenshots show the front-ends during operation
 
 **Web portal screenshot**
-
+<p align="center">
 ![](/gh-images/wfront.png)
-
+</p>
 **Mobile App screenshot**
-
+<p align="center">
 ![](/gh-images/mfront.png)
-
+</p>
 > **Todo:**
 >   - describe the operation using the screenshots
 >   - fix paginator on the web fontend  
@@ -43,18 +43,18 @@ network inputs which match to specific arm configurations; the network can be us
 
 This flexibility of the N2-Classifier and neural network demostrates the versatility of using such a technique in problem solving. The following screenshots show the 
 N2-Classifier in operation. 
-
+<p align="center">
 ![](/gh-images/Screenshot_0.png) ![](/gh-images/Screenshot_1.png) ![](/gh-images/Screenshot_16.png) ![](/gh-images/Screenshot_05.png)
-
+</p>
 ### [Project 3: Single-Value-SQM (Python)](https://github.com/Pendo720/svsqm)  
 #### _Overview_
 A common problem encountered when assessing the quality of software artifact is the absence of a standard
 upon which comparisions of a given artifact can be assessed. The Single-value software quality metric is
 practical framework for facilitating such comparisions. This project is an extension of my master's 
 programme: software quality module. 
-
+<p align="center">
 ![](/gh-images/svsqm_graph.png)
-
+</p>
 In addition to providing a single-value metric for software quality, the visual above can help identify 
 the aspect of the artifact qualities which need addressing to better its quality. The artifact quality 
 measure is the average of the individual values on the four dimensions: Specification, Documentation, Implementation and Testing
