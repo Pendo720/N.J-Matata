@@ -55,8 +55,7 @@ N2-Classifier in operation.
 | ![](/gh-images/Screenshot_16.png) | ![](/gh-images/Screenshot_05.png) |
 
 **Description**
-> The first two screenshot show the N2-Classifier being exercised at the app startup. The app instantiates a neural network model with a given configuration and starts training it using sample data generated from the configuration input. The training is checked through the use of the cross-validation dataset at a fixed number of iterations and is terminated when the model has converged as determined by the success of all cross-validation tests. After successful excution of the cross-validation tests, the model is then
-subjected to the standard tests before its deployment.     
+> The first two screenshot show the N2-Classifier being exercised when the app starts up. The app instantiates a neural network model with a given configuration and starts training it using sample data generated from the configuration input. The training is checked through the use of the cross-validation dataset after every fixed number of iterations and is terminated when the model has converged as determined by the success of all cross-validation tests. After successful excution of the cross-validation tests, the model is then subjected to the standard tests before its deployment.     
 > The last screenshots show a possible application of the classifier to perform state transition between defined robot arm configurations.  
 
 ### [Project 3: Single-Value-SQM (Python)](https://github.com/Pendo720/svsqm)  
@@ -75,7 +74,9 @@ measure is the average of the individual values on the four dimensions: Specific
 Note: the quantities on both the Testing and Documentation dimensions are negated for visualisation purposes.
 
 **Description**
-> explain the benefit and possible application of such framework 
+> SVQM framework is a useful QA tool as it provides a birds-eye view of software artifict quality. It can be use to encourage new engineers to 
+> an organisation quality system.
+> The specifics of how to interpret and determine the values for the four dimension is dependent on the overall organisation and artifact quality criteria.   
 
 
 ### [Project 4: k-Means Clustering (C++)](https://github.com/Pendo720/kmeans-fp)  
