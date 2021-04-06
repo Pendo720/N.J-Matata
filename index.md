@@ -23,7 +23,7 @@ The following screenshots show the front-ends during operation
 
 **Mobile App screenshot**
 
-<img align="center" src="/gh-images/mfront.png"/>
+<center><img src="/gh-images/mfront.png"/></center>
 
 > **Todo:**
 >   - describe the operation using the screenshots
