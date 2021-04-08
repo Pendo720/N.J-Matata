@@ -62,7 +62,7 @@ upon which comparisions of a given artifact quality can be assessed. The single-
 practical framework for facilitating such comparisions. This project is an extension of my master's 
 programme: software quality module. 
 
-> ![](/gh-images/svsqm_graph.png)
+ ![](/gh-images/svsqm_graph.png)
 
 In addition to providing a single-value metric for software quality, the visual above can help identify 
 the aspect of the artifact quality criteria which must be addressed in order to better its quality. The framework defines artifact quality 
@@ -89,8 +89,8 @@ ML algorithms for grouping(clustering) data by means of some intrinsic propertie
 > example. As an on-going tool for enhancing my knowledge in the field of AI/ML, this project will be updated as time goes by to reflect my learning.
 > The screenshot shows a run of the algorithm using randomly generate sample data. It is supplied with four centroids and four respective labels for these centroids.
 >  
-> ![](/gh-images/kmeans_run.PNG)
-> 
-> The screenshot show the adjustments on the centroid as a result of the run and a correct classification of the validation sample data.
+ ![](/gh-images/kmeans_run.PNG)
+ 
+ The screenshot show the adjustments on the centroid as a result of the run and a correct classification of the validation sample data.
  
 
