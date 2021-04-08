@@ -93,4 +93,4 @@ ML algorithms for grouping(clustering) data by means of some intrinsic propertie
 > example. As an on-going tool for enhancing my knowledge in the field of AI/ML, this project will be updated as time goes by to reflect my learning.
 > The screenshot shows a run of the algorithm using randomly generate sample data. It is supplied with four centroids and four respective labels for the centroids.
 >  
-> ![](/gh-images/kmeans_run.png)
+> ![](/gh-images/kmeans_run.PNG)
