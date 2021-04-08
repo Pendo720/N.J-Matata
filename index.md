@@ -89,8 +89,12 @@ proven to be an effective means for acquiring insights. k-means algorithm is one
 ML algorithms for grouping(clustering) data by means of some intrinsic properties in the data.
 
 **Description** 
-> The project implements k-means algorith in C++ on a linux environment for the sole purpose of understanding the algorithm as illustrated by the
+> In this project an implementation of k-means algorith is presented in C++ on a linux environment for the sole purpose of understanding the algorithm as illustrated by the
 > example. As an on-going tool for enhancing my knowledge in the field of AI/ML, this project will be updated as time goes by to reflect my learning.
-> The screenshot shows a run of the algorithm using randomly generate sample data. It is supplied with four centroids and four respective labels for the centroids.
+> The screenshot shows a run of the algorithm using randomly generate sample data. It is supplied with four centroids and four respective labels for these centroids.
 >  
 > ![](/gh-images/kmeans_run.PNG)
+> 
+> The screenshot show the adjustments on the centroid as a result of the run and a correct classification of the validation sample data.
+ 
+
