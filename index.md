@@ -21,7 +21,7 @@ The screenshots below show the front-ends during possible operational scenarios.
 
 **Mobile App screenshot**
 
-![](/gh-images/mfront.png)
+> ![](/gh-images/mfront.png)
 
 **Description**
 >   The event of interest is generated using the proximity sensor on the mobile device running a simple app. On submission - which happens when the button labelled 'POST' 
@@ -66,7 +66,7 @@ upon which comparisions of a given artifact quality can be assessed. The single-
 practical framework for facilitating such comparisions. This project is an extension of my master's 
 programme: software quality module. 
 
-![](/gh-images/svsqm_graph.png)
+> ![](/gh-images/svsqm_graph.png)
 
 In addition to providing a single-value metric for software quality, the visual above can help identify 
 the aspect of the artifact quality criteria which must be addressed in order to better its quality. The framework defines artifact quality 
@@ -75,17 +75,22 @@ measure as the average of the individual values on the four dimensions: Specific
 Note: the quantities on both the Testing and Documentation dimensions are negated for visualisation purposes only.
 
 **Description**
-> SVQM framework is a useful QA tool as it provides a birds-eye view of software quality. It can be use to encourage new engineers to 
-> an organisation quality system. The specifics of how to interpret and determine the values for the four dimensions is dependent on the overall organisation's quality criteria.
+> SVQM framework is a useful QA tool as it provides a birds-eye view of software quality. It can be use to introduceand encourage engineers in 
+> an organisation to its quality meausement system. The specifics of how to interpret and determine the values for the four dimensions is dependent on 
+> the overall organisation's quality criteria. With such a framework, the main challenge to ensure good software quality is reduced to determining the
+> the main factors on each quality dimension and quantifying these factors.
 > 
    
-### [Project 4: k-Means Clustering (C++)](https://github.com/Pendo720/kmeans-fp)  
+### [Project 4: k-means Clustering (C++)](https://github.com/Pendo720/kmeans-fp)  
 #### _Overview_
 AI and ML in particular is finding use in different aspect of our daily life. As one of the pivotal 
-components of AI, the ability to aggregate data on the basis of a given trait of the data(feature) has 
-proven to be an effective means for acquiring insights into the data. k-Means algorithm is one of the 
-unsupervised ML algorithms for grouping(clustering) data by means of some intrinsic traits in the data. 
+components of AI, the ability to aggregate data on the basis of a given trait in the data(feature) has 
+proven to be an effective means for acquiring insights. k-means algorithm is one of the unsupervised 
+ML algorithms for grouping(clustering) data by means of some intrinsic properties in the data.
 
-**Description**
-> - implement it
-> - document it all 
+**Description** 
+> The project implements k-means algorith in C++ on a linux environment for the sole purpose of understanding the algorithm as illustrated by the
+> example. As an on-going tool for enhancing my knowledge in the field of AI/ML, this project will be updated as time goes by to reflect my learning.
+> The screenshot shows a run of the algorithm using randomly generate sample data. It is supplied with four centroids and four respective labels for the centroids.
+>  
+> ![](/gh-images/kmeans_run.png)
