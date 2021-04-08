@@ -87,7 +87,8 @@ ML algorithms for grouping(clustering) data by means of some intrinsic propertie
 **Description** 
 > In this project an implementation of k-means algorith is presented in C++ on a linux environment for the sole purpose of understanding the algorithm as illustrated by the
 > example. As an on-going tool for enhancing my knowledge in the field of AI/ML, this project will be updated as time goes by to reflect my learning.
-> The screenshot shows a run of the algorithm using randomly generate sample data. It is supplied with four centroids and four respective labels for these centroids.  
+> The screenshot shows a run of the algorithm using randomly generate sample data. It is supplied with four centroids and four respective labels for these centroids.
+> 
 
 ![](/gh-images/kmeans_run.PNG)
  
