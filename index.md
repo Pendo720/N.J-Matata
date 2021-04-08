@@ -33,18 +33,14 @@ The system is capable of capturing event data in real-time and relay it to any o
  
 ### [Project 2: N2-Classifier (Java)](https://github.com/Pendo720/nn-fp)  
 #### _Overview_
-This is a customisable neural network created to consolidate understanding and applications of neural networks as problem solving technique. The code implements
-an easily customisable model. 
-The N2-Classifier is a minimalist application of Neural Network to classify a range of numbers based on their bit representation. It uses backpropagation to 
-determine the optimal weight-set for the model. The implementation splits the input data range into three: training, cross-validation and testing datasets.
+This is a customisable neural network created to consolidate my understanding of neural networks and its application as a problem solving technique. The code implements
+an easily customisable model. The N2-Classifier is a minimalist application of neural network to classify a range of numbers based on their bit representation. It uses backpropagation to determine the optimal weight-set for the model. The implementation splits the input data range into three: training, cross-validation and testing datasets.
 The model training and cross-validation dataset is use for determining the optimal number of necessary iterations during training. Thus, the model training terminates 
 as soon as all cross-validation and tests have passed.
 
 Using the trained model, a virtual robot arm is deployed to illustrate how such a model can be use to provide a solution to a given problem. By picking a number of 
 network inputs which match to specific arm configurations; the network can be use to drive a real robot to perform some useful task.
-
-This flexibility of the N2-Classifier and neural network demostrates the versatility of using such a technique in problem solving. The following screenshots show the 
-N2-Classifier in operation.
+The following screenshots show the N2-Classifier in operation.
 
 |      |      |
 |:----:|:----:|
