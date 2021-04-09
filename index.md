@@ -9,15 +9,15 @@ This page is a work in progress and will be continuously updated to reflect the 
 ### Project 1: Track-Sys (Java/Kotlin/Typescript)  
 #### _Overview_
 Track-Sys is a complete system for tracking events. The types of events considered encompasses everything where traceabilty is mandated in the management and processing of human activity. The complete project implementation consists of the following components: 
- - [a microservice for managing the associate data streams in the activity](https://github.com/Pendo720/TrackerMS)
- - [a web portal showing registered events in real-time](https://github.com/Pendo720/Track-Sys-Dashboard) 
+ - [TrackerMS](https://github.com/Pendo720/TrackerMS)
+ - [Track-Sys Dashboard](https://github.com/Pendo720/Track-Sys-Dashboard) 
  - [a mobile app for capturing event data](https://github.com/Pendo720/M-Front)
 
 #### TrackerMS ####
-This is a microservice implemented in Java with a Postgres database for storing events data. The microservice provides a limited set of the CRUD functions as per the percieved user requirements. 
+This is a microservice for managing the associate data streams in the activity; implemented in Java with a Postgres database for storing events data. The service provides a limited set of the CRUD functions as per the percieved user requirements.  
 
 #### Track-Sys Dashboard ####
-This is a web portal which serves as a client to the microservice providing a neat view of the events in real-time and a singlge means for updating the event. With the modular implementation of the portal using Typescript components; it make enhancing the application to provide any other CRUD functions easy. 
+This is a web portal showing registered events in real-time, it serves as a client to the microservice providing a neat view of the events and a singlge means for updating each event. The modular implementation of the portal using Typescript components facilitates possible enhancements of the application to provide some of the other CRUD functions.
 
 **Web portal screenshot**
 
@@ -26,7 +26,7 @@ This is a web portal which serves as a client to the microservice providing a ne
 
 #### M-Front ####
 
-M-Front is the event generator which is implemented as an Android app.  This minimalist app enables generation of easily customisable event using its host device proximity sensor. Using the sensor on the host devices facilitates fast event generation which was necessary for validating the system's resilience.
+M-Front is the event generator which is implemented as an Android app.  This minimalist app enables generation of easily customisable event using its host device proximity sensor. Using the proximity sensor on the host ensured fast event generation with ease; something which was necessary for validating the resilience of the system.
 
 **M-Front App screenshot**
 
@@ -83,8 +83,8 @@ Note: the quantities on both the Testing and Documentation dimensions are negate
 > the overall organisation's quality criteria. With such a framework, the main challenge to ensure good software quality is reduced to determining the
 > the main factors on each quality dimension and defining quantitative values for these factors.
 > 
-> By interfacing the the SVQM framework to a trained neural network such as the N2-Classifier described above, it is possible to create an automated quality assurance 
-> system - something which provides real-time feedback of software artifact quality.
+> By interfacing the the SVQM framework to a trained neural network such as the N2-Classifier described above; it is possible to create an automated quality assurance 
+> system - something which can provides real-time feedback to software development teams.
 
    
 ### [Project 4: k-means Clustering (C++)](https://github.com/Pendo720/kmeans-fp)  
