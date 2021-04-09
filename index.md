@@ -4,7 +4,7 @@ This page is a minimal portfolio showcasing a selection of projects carried out 
 Following projects were selected to illustrate the author's capabilities in the use of the respective programming 
 languages and problem-solving techniques.
 
-This page is a work in progress and will be continuously updated to reflect the changines and other related activities. 
+This page is a work in progress and will be continuously updated to reflect understanding and other relevant activities. 
 
 ### Project 1: Track-Sys (Java/Kotlin/Typescript)  
 #### _Overview_
