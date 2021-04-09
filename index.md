@@ -10,7 +10,7 @@ This page is a work in progress and will be continuously updated to reflect unde
 #### _Overview_
 Track-Sys is a complete system for tracking events. The types of events considered encompasses everything where traceabilty is mandated in the management and processing of human activity. The complete project implementation consists of the following components: 
  - [TrackerMS](https://github.com/Pendo720/TrackerMS)
- - [Track-Sys Dashboard](https://github.com/Pendo720/Track-Sys-Dashboard) 
+ - [Track-Sys-Dashboard](https://github.com/Pendo720/Track-Sys-Dashboard) 
  - [M-Front](https://github.com/Pendo720/M-Front)
 
 #### TrackerMS ####
