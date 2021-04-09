@@ -1,23 +1,34 @@
 ## Introduction
 
-This page is a minimal portfolio showcasing a selected number projects carried out by the author in his free-time. 
+This page is a minimal portfolio showcasing a selection of projects carried out by the author in his free-time. 
 Following projects were selected to illustrate the author's capabilities in the use of the respective programming 
 languages and problem-solving techniques.
 
-This page is a work in progress and will be continuously updated to reflect the author's activities. 
+This page is a work in progress and will be continuously updated to reflect the changines and other related activities. 
 
 ### Project 1: Track-Sys (Java/Kotlin/Typescript)  
 #### _Overview_
-Track-Sys is a complete system for tracking events. The types of possible events considered can be anything where human activity requires some traceability for management purposes. The complete project implementation consists of the following components: 
+Track-Sys is a complete system for tracking events. The types of events considered encompasses everything where traceabilty is mandated in the management and processing of human activity. The complete project implementation consists of the following components: 
  - [a microservice for managing the associate data streams in the activity](https://github.com/Pendo720/TrackerMS)
  - [a web portal showing registered events in real-time](https://github.com/Pendo720/Track-Sys-Dashboard) 
  - [a mobile app for capturing event data](https://github.com/Pendo720/M-Front)
-  
-The screenshots below show the front-ends during possible operational scenarios. 
+
+#### TrackerMS ####
+This is a Jave microservice with a Postgres database for storing events data. The microservice provides a limited set of the CRUD functions as per the percieved user requirements. 
+
+#### Web portal ####
+The Web portal is a client of the microservice providing a neat view of the events in real-time and a singlge means for updating the event. With the modular implementation
+of the portal, this can easily be enhanced to provide the other CRUD functions where necessary. 
 
 **Web portal screenshot**
 
 ![](/gh-images/wfront.png)
+
+
+#### Event generator ####
+
+The event generator is a minimalist Android app which enables generation of easily customisable event using an Android device's proximity sensor. Using the sensor on the 
+app host facilitates fast event generation which is necessary for validating the system's resilience.
 
 **Mobile App screenshot**
 
@@ -33,13 +44,13 @@ The system is capable of capturing event data in real-time and relay it to any o
  
 ### [Project 2: N2-Classifier (Java)](https://github.com/Pendo720/nn-fp)  
 #### _Overview_
-This is a customisable neural network created to consolidate my understanding of neural networks and its application as a problem solving technique. The code implements
-an easily customisable model. N2-Classifier is a minimalist application of neural network to classify a range of numbers based on their bit representation. It uses backpropagation to determine the optimal weights-set for the model. The implementation splits the input data range into three: training, cross-validation and testing datasets.
+This is a customisable neural network developed to consolidate my understanding of neural networks and its application as a problem solving technique. The code implements
+an easily customisable model from first principles. N2-Classifier is an application of neural network to classify a range of numbers based on their bit representation. It uses backpropagation to determine the optimal weights-set for the model. The implementation splits the input data range into three: training, cross-validation and testing datasets.
 The model training and cross-validation dataset is use for determining the optimal number of necessary iterations during training. Thus, the model training terminates 
 as soon as all cross-validation and tests have passed.
 
 Using the trained model, a virtual robot arm is deployed to illustrate how such a model can be use to provide a solution to a given problem. By picking a number of 
-network inputs which match to specific arm configurations; the network can be use to drive a real robot to perform some useful task.
+network inputs which match to specific arm configurations; the neural network is deployed to simulate the robot arm transitioning between the selected configurations.
 The following screenshots show the N2-Classifier in operation.
 
 |      |      |
@@ -58,23 +69,21 @@ The following screenshots show the N2-Classifier in operation.
 ### [Project 3: Single-Value-SQM (Python)](https://github.com/Pendo720/svsqm)  
 #### _Overview_
 A common problem encountered when assessing the quality of software artifact is the absence of a standard
-upon which comparisions of a given artifact quality can be assessed. The single-value software quality metric is
-practical framework for facilitating such comparisions. This project is an extension of my master's 
+upon which comparisions of a given artifact quality can be assessed. The single-value software quality metric is a visually 
+practical framework for facilitating such comparisions. This project is a byproduct of an exploration into software quality carried out during my master's 
 programme: software quality module. 
 
  ![](/gh-images/svsqm_graph.png)
 
-In addition to providing a single-value metric for software quality, the visual above can help identify 
-the aspect of the artifact quality criteria which must be addressed in order to better its quality. The framework defines artifact quality 
-measure as the average of the individual values on the four dimensions: Specification, Documentation, Implementation and Testing
+In addition to providing a single-value metric for software quality, the visual help identify those aspects of the artifact quality criteria which need to be addressed in order to better its quality. The framework defines artifact quality measure as the average of the individual values on the four dimensions: Specification, Documentation, Implementation and Testing
 
 Note: the quantities on both the Testing and Documentation dimensions are negated for visualisation purposes only.
 
 **Description**
-> SVQM framework is a useful QA tool as it provides a birds-eye view of software quality. It can be use to introduceand encourage engineers in 
-> an organisation to its quality meausement system. The specifics of how to interpret and determine the values for the four dimensions is dependent on 
+> SVQM framework is a useful QA tool as it provides a birds-eye view of software quality. It can be use to introduce and encourage engineers in 
+> an organisation's quality meausement system. The specifics of how to interpret and determine the values for the four dimensions is dependent on 
 > the overall organisation's quality criteria. With such a framework, the main challenge to ensure good software quality is reduced to determining the
-> the main factors on each quality dimension and quantifying these factors.
+> the main factors on each quality dimension and defining quantitative values for these factors.
 > 
    
 ### [Project 4: k-means Clustering (C++)](https://github.com/Pendo720/kmeans-fp)  
