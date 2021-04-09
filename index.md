@@ -14,23 +14,21 @@ Track-Sys is a complete system for tracking events. The types of events consider
  - [a mobile app for capturing event data](https://github.com/Pendo720/M-Front)
 
 #### TrackerMS ####
-This is a Jave microservice with a Postgres database for storing events data. The microservice provides a limited set of the CRUD functions as per the percieved user requirements. 
+This is a microservice implemented in Java with a Postgres database for storing events data. The microservice provides a limited set of the CRUD functions as per the percieved user requirements. 
 
-#### Web portal ####
-The Web portal is a client of the microservice providing a neat view of the events in real-time and a singlge means for updating the event. With the modular implementation
-of the portal, this can easily be enhanced to provide the other CRUD functions where necessary. 
+#### Track-Sys Dashboard ####
+This is a web portal which serves as a client to the microservice providing a neat view of the events in real-time and a singlge means for updating the event. With the modular implementation of the portal using Typescript components; it make enhancing the application to provide any other CRUD functions easy. 
 
 **Web portal screenshot**
 
 ![](/gh-images/wfront.png)
 
 
-#### Event generator ####
+#### M-Front ####
 
-The event generator is a minimalist Android app which enables generation of easily customisable event using an Android device's proximity sensor. Using the sensor on the 
-app host facilitates fast event generation which is necessary for validating the system's resilience.
+M-Front is the event generator which is implemented as an Android app.  This minimalist app enables generation of easily customisable event using its host device proximity sensor. Using the sensor on the host devices facilitates fast event generation which was necessary for validating the system's resilience.
 
-**Mobile App screenshot**
+**M-Front App screenshot**
 
 ![](/gh-images/mfront.png)
 
