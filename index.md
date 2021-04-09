@@ -83,6 +83,9 @@ Note: the quantities on both the Testing and Documentation dimensions are negate
 > the overall organisation's quality criteria. With such a framework, the main challenge to ensure good software quality is reduced to determining the
 > the main factors on each quality dimension and defining quantitative values for these factors.
 > 
+> By interfacing the the SVQM framework to a trained neural network such as the N2-Classifier described above, it is possible to create an automated quality assurance 
+> system - something which provides real-time feedback of software artifact quality.
+
    
 ### [Project 4: k-means Clustering (C++)](https://github.com/Pendo720/kmeans-fp)  
 #### _Overview_
