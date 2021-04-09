@@ -11,7 +11,7 @@ This page is a work in progress and will be continuously updated to reflect the 
 Track-Sys is a complete system for tracking events. The types of events considered encompasses everything where traceabilty is mandated in the management and processing of human activity. The complete project implementation consists of the following components: 
  - [TrackerMS](https://github.com/Pendo720/TrackerMS)
  - [Track-Sys Dashboard](https://github.com/Pendo720/Track-Sys-Dashboard) 
- - [a mobile app for capturing event data](https://github.com/Pendo720/M-Front)
+ - [M-Front](https://github.com/Pendo720/M-Front)
 
 #### TrackerMS ####
 This is a microservice for managing the associate data streams in the activity; implemented in Java with a Postgres database for storing events data. The service provides a limited set of the CRUD functions as per the percieved user requirements.  
