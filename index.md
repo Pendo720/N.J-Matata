@@ -12,6 +12,7 @@ Track-Sys is a complete system for tracking events. The types of events consider
  - [TrackerMS](https://github.com/Pendo720/TrackerMS)
  - [Track-Sys-Dashboard](https://github.com/Pendo720/Track-Sys-Dashboard) 
  - [M-Front](https://github.com/Pendo720/M-Front)
+
 TrackerMS was initially developed in C# with an SQL Server database.  
 
 #### TrackerMS ####
@@ -27,7 +28,7 @@ This is a web portal showing registered events in real-time, it serves as a clie
 
 #### M-Front ####
 
-M-Front is the event generation subsyste implemented as an Android app.  This minimalist app enables generation of easily customisable events using its host proximity sensor. Using this sensor on the ensured fast event generation with ease; something which was necessary for validating the resilience of the system.
+M-Front is the event generation subsystem implemented as an Android app.  This minimalist app enables generation of easily customisable events using its host proximity sensor. Using this sensor on the host ensures fast event generation with ease; something which was necessary for validating the resilience of the system.
 
 **M-Front App screenshot**
 
@@ -84,8 +85,9 @@ Note: the quantities on both the Testing and Documentation dimensions are negate
 > the overall organisation's quality criteria. With such a framework, the main challenge to ensure good software quality is reduced to determining the
 > the main factors on each quality dimension and defining quantitative values for these factors.
 > 
-> By interfacing the the SVQM framework to a trained neural network such as the N2-Classifier described above; it is possible to create an automated quality assurance 
-> system - something which can provides real-time feedback to software development teams.
+
+By interfacing the the SVQM framework to a trained neural network such as the N2-Classifier described above; it is possible to create an automated quality assurance 
+ system - something which can provide real-time feedback to software development teams.
 
    
 ### [Project 4: k-means Clustering (C++)](https://github.com/Pendo720/kmeans-fp)  
@@ -103,6 +105,6 @@ ML algorithms for grouping(clustering) data by means of some properties of the d
 
 ![](/gh-images/kmeans_run.PNG)
  
-The screenshot show the adjustments on the centroid as a result of the run and a correct classification of the validation sample data.
+The screenshot shows the adjustments on the centroid as a result of the run and a correct classification of the validation sample data.
  
 
