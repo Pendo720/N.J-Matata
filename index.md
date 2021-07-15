@@ -66,31 +66,7 @@ The following screenshots show the N2-Classifier in operation.
 > The last screenshots show a possible application of the classifier to perform state transition between defined robot arm configurations.
 > 
 
-### [Project 3: Single-Value-SQM (Python)](https://github.com/Pendo720/svsqm)  
-#### _Overview_
-A common problem encountered when assessing the quality of software artifact is the absence of a standard
-upon which comparisions of a given artifact quality can be assessed. The single-value software quality metric is a visually 
-practical framework for facilitating such comparisions. This project is a byproduct of an exploration into software quality carried out during my master's 
-programme: software quality module. 
-
- ![](/gh-images/svsqm_graph.png)
-
-In addition to providing a single-value metric for software quality, the visual helps identify those aspects of the quality criteria which need to be improved to better the software artifact quality. The framework defines software measure as the average of the individual values on the four dimensions: Specification, Documentation, Implementation and Testing
-
-Note: the quantities on both the Testing and Documentation dimensions are negated for visualisation purposes only.
-
-**Description**
-> SVQM framework is a useful QA tool as it provides a birds-eye view of software quality. It can be use to introduce and encourage engineers in adopting 
-> an organisation's quality strategy. The specifics of how to interpret and determine the values for the four dimensions is dependent on 
-> the overall organisation's quality criteria. With such a framework, the main challenge to ensure good software quality is reduced to determining the
-> the main factors on each quality dimension and defining quantitative values for these factors.
-> 
-
-By interfacing the the SVQM framework to a trained neural network such as the N2-Classifier described above; it is possible to create an automated quality assurance 
- system - something which can provide real-time feedback to software development teams.
-
-   
-### [Project 4: k-means Clustering (C++)](https://github.com/Pendo720/kmeans-fp)  
+### [Project 3: k-means Clustering (C++/Linux)](https://github.com/Pendo720/kmeans-fp)  
 #### _Overview_
 AI and ML in particular is finding use in different aspect of our daily life. As one of the pivotal 
 components of AI, the ability to aggregate data on the basis of a given trait in the data(feature) has 
